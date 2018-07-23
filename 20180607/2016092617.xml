@@ -1,0 +1,674 @@
+<?xml version="1.0" encoding="Shift_JIS"?>
+<morningstarXML>
+  <fund code="2016092617" name="コロンビア米国株リバーサル戦略F A(一任)" period_start="20160926" period_end="0       ">
+    <year value="2016">
+      <month value="09">
+        <day value="26" year="2016" month="09" price="10000" volume="1" return_value="1" indication="1"/>
+        <day value="27" year="2016" month="09" price="10000" volume="1" return_value="1" indication="1"/>
+        <day value="28" year="2016" month="09" price="10055" volume="1" return_value="1.0055" indication="1"/>
+        <day value="29" year="2016" month="09" price="10144" volume="1" return_value="1.00885132" indication="1"/>
+        <day value="30" year="2016" month="09" price="10062" volume="1" return_value=".9919164" work_end="2" indication="1"/>
+      </month>
+      <month value="10">
+        <day value="01" year="2016" month="10" price="" volume="" return_value="" indication="0"/>
+        <day value="02" year="2016" month="10" price="" volume="" return_value="" indication="0"/>
+        <day value="03" year="2016" month="10" price="10145" volume="1" return_value="1.00824886" indication="1"/>
+        <day value="04" year="2016" month="10" price="10114" volume="1" return_value=".99694431" indication="1"/>
+        <day value="05" year="2016" month="10" price="10084" volume="1" return_value=".99703381" indication="1"/>
+        <day value="06" year="2016" month="10" price="10126" volume="1" return_value="1.00416501" indication="1"/>
+        <day value="07" year="2016" month="10" price="10127" volume="1" return_value="1.00009876" work_end="0" indication="1"/>
+        <day value="08" year="2016" month="10" price="" volume="" return_value="" indication="0"/>
+        <day value="09" year="2016" month="10" price="" volume="" return_value="" indication="0"/>
+        <day value="10" year="2016" month="10" price="" volume="" return_value="" indication="0"/>
+        <day value="11" year="2016" month="10" price="10095" volume="1" return_value=".99684013" indication="1"/>
+        <day value="12" year="2016" month="10" price="10026" volume="1" return_value=".99316493" indication="1"/>
+        <day value="13" year="2016" month="10" price="10044" volume="1" return_value="1.00179533" indication="1"/>
+        <day value="14" year="2016" month="10" price="10027" volume="2" return_value=".99830745" work_end="0" indication="1"/>
+        <day value="15" year="2016" month="10" price="" volume="" return_value="" indication="0"/>
+        <day value="16" year="2016" month="10" price="" volume="" return_value="" indication="0"/>
+        <day value="17" year="2016" month="10" price="10074" volume="2" return_value="1.00468734" indication="1"/>
+        <day value="18" year="2016" month="10" price="10065" volume="10" return_value=".99910661" indication="1"/>
+        <day value="19" year="2016" month="10" price="10077" volume="36" return_value="1.00119225" indication="1"/>
+        <day value="20" year="2016" month="10" price="10052" volume="35" return_value=".9975191" indication="1"/>
+        <day value="21" year="2016" month="10" price="10092" volume="36" return_value="1.00397931" work_end="0" indication="1"/>
+        <day value="22" year="2016" month="10" price="" volume="" return_value="" indication="0"/>
+        <day value="23" year="2016" month="10" price="" volume="" return_value="" indication="0"/>
+        <day value="24" year="2016" month="10" price="10095" volume="36" return_value="1.00029727" indication="1"/>
+        <day value="25" year="2016" month="10" price="10155" volume="36" return_value="1.00594354" indication="1"/>
+        <day value="26" year="2016" month="10" price="10092" volume="44" return_value=".99379616" indication="1"/>
+        <day value="27" year="2016" month="10" price="10068" volume="44" return_value=".99762188" indication="1"/>
+        <day value="28" year="2016" month="10" price="10066" volume="43" return_value=".99980135" work_end="0" indication="1"/>
+        <day value="29" year="2016" month="10" price="" volume="" return_value="" indication="0"/>
+        <day value="30" year="2016" month="10" price="" volume="" return_value="" indication="0"/>
+        <day value="31" year="2016" month="10" price="10043" volume="45" return_value=".99771508" work_end="1" indication="1"/>
+      </month>
+      <month value="11">
+        <day value="01" year="2016" month="11" price="10009" volume="45" return_value=".99661456" indication="1"/>
+        <day value="02" year="2016" month="11" price="10009" volume="45" return_value="1" indication="1"/>
+        <day value="03" year="2016" month="11" price="" volume="" return_value="" indication="0"/>
+        <day value="04" year="2016" month="11" price="9849" volume="44" return_value=".98401439" work_end="0" indication="1"/>
+        <day value="05" year="2016" month="11" price="" volume="" return_value="" indication="0"/>
+        <day value="06" year="2016" month="11" price="" volume="" return_value="" indication="0"/>
+        <day value="07" year="2016" month="11" price="9829" volume="48" return_value=".99796934" indication="1"/>
+        <day value="08" year="2016" month="11" price="10014" volume="49" return_value="1.01882185" indication="1"/>
+        <day value="09" year="2016" month="11" price="10037" volume="49" return_value="1.00229678" indication="1"/>
+        <day value="10" year="2016" month="11" price="10138" volume="50" return_value="1.01006277" indication="1"/>
+        <day value="11" year="2016" month="11" price="10164" volume="53" return_value="1.00256461" work_end="0" indication="1"/>
+        <day value="12" year="2016" month="11" price="" volume="" return_value="" indication="0"/>
+        <day value="13" year="2016" month="11" price="" volume="" return_value="" indication="0"/>
+        <day value="14" year="2016" month="11" price="10164" volume="53" return_value="1" indication="1"/>
+        <day value="15" year="2016" month="11" price="10103" volume="53" return_value=".99399843" indication="1"/>
+        <day value="16" year="2016" month="11" price="10172" volume="64" return_value="1.00682965" indication="1"/>
+        <day value="17" year="2016" month="11" price="10161" volume="66" return_value=".9989186" indication="1"/>
+        <day value="18" year="2016" month="11" price="10208" volume="67" return_value="1.00462553" work_end="0" indication="1"/>
+        <day value="19" year="2016" month="11" price="" volume="" return_value="" indication="0"/>
+        <day value="20" year="2016" month="11" price="" volume="" return_value="" indication="0"/>
+        <day value="21" year="2016" month="11" price="10195" volume="66" return_value=".99872649" indication="1"/>
+        <day value="22" year="2016" month="11" price="10274" volume="67" return_value="1.0077489" indication="1"/>
+        <day value="23" year="2016" month="11" price="" volume="" return_value="" indication="0"/>
+        <day value="24" year="2016" month="11" price="10278" volume="71" return_value="1.00038933" indication="1"/>
+        <day value="25" year="2016" month="11" price="10278" volume="71" return_value="1" work_end="0" indication="1"/>
+        <day value="26" year="2016" month="11" price="" volume="" return_value="" indication="0"/>
+        <day value="27" year="2016" month="11" price="" volume="" return_value="" indication="0"/>
+        <day value="28" year="2016" month="11" price="10304" volume="72" return_value="1.00252968" indication="1"/>
+        <day value="29" year="2016" month="11" price="10251" volume="71" return_value=".99485637" indication="1"/>
+        <day value="30" year="2016" month="11" price="10275" volume="71" return_value="1.00234124" work_end="1" indication="1"/>
+      </month>
+      <month value="12">
+        <day value="01" year="2016" month="12" price="10235" volume="71" return_value=".99610706" indication="1"/>
+        <day value="02" year="2016" month="12" price="10203" volume="71" return_value=".99687347" work_end="0" indication="1"/>
+        <day value="03" year="2016" month="12" price="" volume="" return_value="" indication="0"/>
+        <day value="04" year="2016" month="12" price="" volume="" return_value="" indication="0"/>
+        <day value="05" year="2016" month="12" price="10194" volume="74" return_value=".99911791" indication="1"/>
+        <day value="06" year="2016" month="12" price="10261" volume="74" return_value="1.00657249" indication="1"/>
+        <day value="07" year="2016" month="12" price="10291" volume="75" return_value="1.00292369" indication="1"/>
+        <day value="08" year="2016" month="12" price="10400" volume="78" return_value="1.01059178" indication="1"/>
+        <day value="09" year="2016" month="12" price="10417" volume="78" return_value="1.00163462" work_end="0" indication="1"/>
+        <day value="10" year="2016" month="12" price="" volume="" return_value="" indication="0"/>
+        <day value="11" year="2016" month="12" price="" volume="" return_value="" indication="0"/>
+        <day value="12" year="2016" month="12" price="10481" volume="79" return_value="1.0061438" indication="1"/>
+        <day value="13" year="2016" month="12" price="10472" volume="82" return_value=".9991413" indication="1"/>
+        <day value="14" year="2016" month="12" price="10544" volume="82" return_value="1.00687548" indication="1"/>
+        <day value="15" year="2016" month="12" price="10468" volume="81" return_value=".99279211" indication="1"/>
+        <day value="16" year="2016" month="12" price="10501" volume="82" return_value="1.00315246" work_end="0" indication="1"/>
+        <day value="17" year="2016" month="12" price="" volume="" return_value="" indication="0"/>
+        <day value="18" year="2016" month="12" price="" volume="" return_value="" indication="0"/>
+        <day value="19" year="2016" month="12" price="10482" volume="82" return_value=".99819065" indication="1"/>
+        <day value="20" year="2016" month="12" price="10491" volume="82" return_value="1.00085861" indication="1"/>
+        <day value="21" year="2016" month="12" price="10542" volume="82" return_value="1.00486131" indication="1"/>
+        <day value="22" year="2016" month="12" price="10508" volume="82" return_value=".99677481" work_end="0" indication="1"/>
+        <day value="23" year="2016" month="12" price="" volume="" return_value="" indication="0"/>
+        <day value="24" year="2016" month="12" price="" volume="" return_value="" indication="0"/>
+        <day value="25" year="2016" month="12" price="" volume="" return_value="" indication="0"/>
+        <day value="26" year="2016" month="12" price="10490" volume="82" return_value=".99828702" indication="1"/>
+        <day value="27" year="2016" month="12" price="10490" volume="82" return_value="1" indication="1"/>
+        <day value="28" year="2016" month="12" price="10503" volume="82" return_value="1.00123928" indication="1"/>
+        <day value="29" year="2016" month="12" price="10429" volume="81" return_value=".99295439" indication="1"/>
+        <day value="30" year="2016" month="12" price="10408" volume="81" return_value=".99798638" work_end="2" indication="1"/>
+        <day value="31" year="2016" month="12" price="" volume="" return_value="" indication="0"/>
+      </month>
+    </year>
+    <year value="2017">
+      <month value="01">
+        <day value="01" year="2017" month="01" price="" volume="" return_value="" indication="0"/>
+        <day value="02" year="2017" month="01" price="" volume="" return_value="" indication="0"/>
+        <day value="03" year="2017" month="01" price="" volume="" return_value="" indication="0"/>
+        <day value="04" year="2017" month="01" price="10441" volume="81" return_value="1.00317064" indication="1"/>
+        <day value="05" year="2017" month="01" price="10487" volume="82" return_value="1.00440571" indication="1"/>
+        <day value="06" year="2017" month="01" price="10488" volume="85" return_value="1.00009536" work_end="0" indication="1"/>
+        <day value="07" year="2017" month="01" price="" volume="" return_value="" indication="0"/>
+        <day value="08" year="2017" month="01" price="" volume="" return_value="" indication="0"/>
+        <day value="09" year="2017" month="01" price="" volume="" return_value="" indication="0"/>
+        <day value="10" year="2017" month="01" price="10500" volume="85" return_value="1.00114416" indication="1"/>
+        <day value="11" year="2017" month="01" price="10503" volume="85" return_value="1.00028571" indication="1"/>
+        <day value="12" year="2017" month="01" price="10525" volume="92" return_value="1.00209464" indication="1"/>
+        <day value="13" year="2017" month="01" price="10503" volume="92" return_value=".99790974" work_end="0" indication="1"/>
+        <day value="14" year="2017" month="01" price="" volume="" return_value="" indication="0"/>
+        <day value="15" year="2017" month="01" price="" volume="" return_value="" indication="0"/>
+        <day value="16" year="2017" month="01" price="10531" volume="92" return_value="1.0026659" indication="1"/>
+        <day value="17" year="2017" month="01" price="10531" volume="89" return_value="1" indication="1"/>
+        <day value="18" year="2017" month="01" price="10486" volume="89" return_value=".9957269" indication="1"/>
+        <day value="19" year="2017" month="01" price="10496" volume="90" return_value="1.00095365" indication="1"/>
+        <day value="20" year="2017" month="01" price="10445" volume="89" return_value=".99514101" work_end="0" indication="1"/>
+        <day value="21" year="2017" month="01" price="" volume="" return_value="" indication="0"/>
+        <day value="22" year="2017" month="01" price="" volume="" return_value="" indication="0"/>
+        <day value="23" year="2017" month="01" price="10462" volume="89" return_value="1.00162757" indication="1"/>
+        <day value="24" year="2017" month="01" price="10427" volume="89" return_value=".99665456" indication="1"/>
+        <day value="25" year="2017" month="01" price="10486" volume="90" return_value="1.00565839" indication="1"/>
+        <day value="26" year="2017" month="01" price="10562" volume="94" return_value="1.00724776" indication="1"/>
+        <day value="27" year="2017" month="01" price="10576" volume="94" return_value="1.00132551" work_end="0" indication="1"/>
+        <day value="28" year="2017" month="01" price="" volume="" return_value="" indication="0"/>
+        <day value="29" year="2017" month="01" price="" volume="" return_value="" indication="0"/>
+        <day value="30" year="2017" month="01" price="10573" volume="94" return_value=".99971634" indication="1"/>
+        <day value="31" year="2017" month="01" price="10505" volume="94" return_value=".99356852" work_end="1" indication="1"/>
+      </month>
+      <month value="02">
+        <day value="01" year="2017" month="02" price="10487" volume="94" return_value=".99828653" indication="1"/>
+        <day value="02" year="2017" month="02" price="10513" volume="94" return_value="1.00247926" indication="1"/>
+        <day value="03" year="2017" month="02" price="10495" volume="94" return_value=".99828783" work_end="0" indication="1"/>
+        <day value="04" year="2017" month="02" price="" volume="" return_value="" indication="0"/>
+        <day value="05" year="2017" month="02" price="" volume="" return_value="" indication="0"/>
+        <day value="06" year="2017" month="02" price="10592" volume="95" return_value="1.0092425" indication="1"/>
+        <day value="07" year="2017" month="02" price="10568" volume="97" return_value=".99773414" indication="1"/>
+        <day value="08" year="2017" month="02" price="10566" volume="101" return_value=".99981075" indication="1"/>
+        <day value="09" year="2017" month="02" price="10562" volume="100" return_value=".99962143" indication="1"/>
+        <day value="10" year="2017" month="02" price="10633" volume="101" return_value="1.00672221" work_end="0" indication="1"/>
+        <day value="11" year="2017" month="02" price="" volume="" return_value="" indication="0"/>
+        <day value="12" year="2017" month="02" price="" volume="" return_value="" indication="0"/>
+        <day value="13" year="2017" month="02" price="10686" volume="102" return_value="1.00498448" indication="1"/>
+        <day value="14" year="2017" month="02" price="10741" volume="106" return_value="1.00514692" indication="1"/>
+        <day value="15" year="2017" month="02" price="10787" volume="107" return_value="1.00428266" indication="1"/>
+        <day value="16" year="2017" month="02" price="10839" volume="120" return_value="1.00482062" indication="1"/>
+        <day value="17" year="2017" month="02" price="10817" volume="119" return_value=".99797029" work_end="0" indication="1"/>
+        <day value="18" year="2017" month="02" price="" volume="" return_value="" indication="0"/>
+        <day value="19" year="2017" month="02" price="" volume="" return_value="" indication="0"/>
+        <day value="20" year="2017" month="02" price="10825" volume="123" return_value="1.00073958" indication="1"/>
+        <day value="21" year="2017" month="02" price="10825" volume="123" return_value="1" indication="1"/>
+        <day value="22" year="2017" month="02" price="10893" volume="124" return_value="1.00628176" indication="1"/>
+        <day value="23" year="2017" month="02" price="10878" volume="125" return_value=".99862297" indication="1"/>
+        <day value="24" year="2017" month="02" price="10880" volume="125" return_value="1.00018386" work_end="0" indication="1"/>
+        <day value="25" year="2017" month="02" price="" volume="" return_value="" indication="0"/>
+        <day value="26" year="2017" month="02" price="" volume="" return_value="" indication="0"/>
+        <day value="27" year="2017" month="02" price="10884" volume="125" return_value="1.00036765" indication="1"/>
+        <day value="28" year="2017" month="02" price="10906" volume="127" return_value="1.00202132" work_end="1" indication="1"/>
+      </month>
+      <month value="03">
+        <day value="01" year="2017" month="03" price="10870" volume="126" return_value=".99669906" indication="1"/>
+        <day value="02" year="2017" month="03" price="11053" volume="128" return_value="1.01683533" indication="1"/>
+        <day value="03" year="2017" month="03" price="10998" volume="133" return_value=".99502398" work_end="0" indication="1"/>
+        <day value="04" year="2017" month="03" price="" volume="" return_value="" indication="0"/>
+        <day value="05" year="2017" month="03" price="" volume="" return_value="" indication="0"/>
+        <day value="06" year="2017" month="03" price="11006" volume="134" return_value="1.0007274" indication="1"/>
+        <day value="07" year="2017" month="03" price="10979" volume="134" return_value=".99754679" indication="1"/>
+        <day value="08" year="2017" month="03" price="10956" volume="133" return_value=".99790509" indication="1"/>
+        <day value="09" year="2017" month="03" price="10955" volume="137" return_value=".99990873" indication="1"/>
+        <day value="10" year="2017" month="03" price="10979" volume="141" return_value="1.00219078" work_end="0" indication="1"/>
+        <day value="11" year="2017" month="03" price="" volume="" return_value="" indication="0"/>
+        <day value="12" year="2017" month="03" price="" volume="" return_value="" indication="0"/>
+        <day value="13" year="2017" month="03" price="11006" volume="141" return_value="1.00245924" indication="1"/>
+        <day value="14" year="2017" month="03" price="11007" volume="152" return_value="1.00009086" indication="1"/>
+        <day value="15" year="2017" month="03" price="10974" volume="154" return_value=".99700191" indication="1"/>
+        <day value="16" year="2017" month="03" price="11047" volume="161" return_value="1.00665209" indication="1"/>
+        <day value="17" year="2017" month="03" price="11018" volume="162" return_value=".99737485" work_end="0" indication="1"/>
+        <day value="18" year="2017" month="03" price="" volume="" return_value="" indication="0"/>
+        <day value="19" year="2017" month="03" price="" volume="" return_value="" indication="0"/>
+        <day value="20" year="2017" month="03" price="" volume="" return_value="" indication="0"/>
+        <day value="21" year="2017" month="03" price="10959" volume="161" return_value=".99464513" indication="1"/>
+        <day value="22" year="2017" month="03" price="10834" volume="159" return_value=".98859385" indication="1"/>
+        <day value="23" year="2017" month="03" price="10852" volume="159" return_value="1.00166144" indication="1"/>
+        <day value="24" year="2017" month="03" price="10836" volume="159" return_value=".99852562" work_end="0" indication="1"/>
+        <day value="25" year="2017" month="03" price="" volume="" return_value="" indication="0"/>
+        <day value="26" year="2017" month="03" price="" volume="" return_value="" indication="0"/>
+        <day value="27" year="2017" month="03" price="10830" volume="159" return_value=".99944629" indication="1"/>
+        <day value="28" year="2017" month="03" price="10822" volume="159" return_value=".99926131" indication="1"/>
+        <day value="29" year="2017" month="03" price="10899" volume="160" return_value="1.00711514" indication="1"/>
+        <day value="30" year="2017" month="03" price="10926" volume="160" return_value="1.00247729" indication="1"/>
+        <day value="31" year="2017" month="03" price="10960" volume="161" return_value="1.00311184" work_end="2" indication="1"/>
+      </month>
+      <month value="04">
+        <day value="01" year="2017" month="04" price="" volume="" return_value="" indication="0"/>
+        <day value="02" year="2017" month="04" price="" volume="" return_value="" indication="0"/>
+        <day value="03" year="2017" month="04" price="10929" volume="167" return_value=".99717153" indication="1"/>
+        <day value="04" year="2017" month="04" price="10917" volume="165" return_value=".998902" indication="1"/>
+        <day value="05" year="2017" month="04" price="10922" volume="168" return_value="1.000458" indication="1"/>
+        <day value="06" year="2017" month="04" price="10889" volume="168" return_value=".99697858" indication="1"/>
+        <day value="07" year="2017" month="04" price="10913" volume="168" return_value="1.00220406" work_end="0" indication="1"/>
+        <day value="08" year="2017" month="04" price="" volume="" return_value="" indication="0"/>
+        <day value="09" year="2017" month="04" price="" volume="" return_value="" indication="0"/>
+        <day value="10" year="2017" month="04" price="10904" volume="168" return_value=".9991753" indication="1"/>
+        <day value="11" year="2017" month="04" price="10911" volume="169" return_value="1.00064197" indication="1"/>
+        <day value="12" year="2017" month="04" price="10889" volume="168" return_value=".99798369" indication="1"/>
+        <day value="13" year="2017" month="04" price="10849" volume="168" return_value=".99632657" indication="1"/>
+        <day value="14" year="2017" month="04" price="10786" volume="167" return_value=".99419301" work_end="0" indication="1"/>
+        <day value="15" year="2017" month="04" price="" volume="" return_value="" indication="0"/>
+        <day value="16" year="2017" month="04" price="" volume="" return_value="" indication="0"/>
+        <day value="17" year="2017" month="04" price="10785" volume="168" return_value=".99990729" indication="1"/>
+        <day value="18" year="2017" month="04" price="10785" volume="168" return_value="1" indication="1"/>
+        <day value="19" year="2017" month="04" price="10838" volume="169" return_value="1.00491423" indication="1"/>
+        <day value="20" year="2017" month="04" price="10824" volume="176" return_value=".99870825" indication="1"/>
+        <day value="21" year="2017" month="04" price="10899" volume="177" return_value="1.00692905" work_end="0" indication="1"/>
+        <day value="22" year="2017" month="04" price="" volume="" return_value="" indication="0"/>
+        <day value="23" year="2017" month="04" price="" volume="" return_value="" indication="0"/>
+        <day value="24" year="2017" month="04" price="10870" volume="177" return_value=".99733921" indication="1"/>
+        <day value="25" year="2017" month="04" price="10997" volume="179" return_value="1.01168353" indication="1"/>
+        <day value="26" year="2017" month="04" price="11077" volume="180" return_value="1.00727471" indication="1"/>
+        <day value="27" year="2017" month="04" price="11076" volume="180" return_value=".99990972" indication="1"/>
+        <day value="28" year="2017" month="04" price="11069" volume="180" return_value=".999368" work_end="2" indication="1"/>
+        <day value="29" year="2017" month="04" price="" volume="" return_value="" indication="0"/>
+        <day value="30" year="2017" month="04" price="" volume="" return_value="" indication="0"/>
+      </month>
+      <month value="05">
+        <day value="01" year="2017" month="05" price="11069" volume="180" return_value="1" indication="1"/>
+        <day value="02" year="2017" month="05" price="11069" volume="180" return_value="1" work_end="0" indication="1"/>
+        <day value="03" year="2017" month="05" price="" volume="" return_value="" indication="0"/>
+        <day value="04" year="2017" month="05" price="" volume="" return_value="" indication="0"/>
+        <day value="05" year="2017" month="05" price="" volume="" return_value="" indication="0"/>
+        <day value="06" year="2017" month="05" price="" volume="" return_value="" indication="0"/>
+        <day value="07" year="2017" month="05" price="" volume="" return_value="" indication="0"/>
+        <day value="08" year="2017" month="05" price="11141" volume="181" return_value="1.00650465" indication="1"/>
+        <day value="09" year="2017" month="05" price="11158" volume="183" return_value="1.0015259" indication="1"/>
+        <day value="10" year="2017" month="05" price="11157" volume="183" return_value=".99991038" indication="1"/>
+        <day value="11" year="2017" month="05" price="11174" volume="183" return_value="1.00152371" indication="1"/>
+        <day value="12" year="2017" month="05" price="11161" volume="183" return_value=".99883658" work_end="0" indication="1"/>
+        <day value="13" year="2017" month="05" price="" volume="" return_value="" indication="0"/>
+        <day value="14" year="2017" month="05" price="" volume="" return_value="" indication="0"/>
+        <day value="15" year="2017" month="05" price="11152" volume="183" return_value=".99919362" indication="1"/>
+        <day value="16" year="2017" month="05" price="11209" volume="186" return_value="1.00511119" indication="1"/>
+        <day value="17" year="2017" month="05" price="11203" volume="188" return_value=".99946472" indication="1"/>
+        <day value="18" year="2017" month="05" price="10992" volume="184" return_value=".98116576" indication="1"/>
+        <day value="19" year="2017" month="05" price="11037" volume="186" return_value="1.00409389" work_end="0" indication="1"/>
+        <day value="20" year="2017" month="05" price="" volume="" return_value="" indication="0"/>
+        <day value="21" year="2017" month="05" price="" volume="" return_value="" indication="0"/>
+        <day value="22" year="2017" month="05" price="11105" volume="188" return_value="1.00616109" indication="1"/>
+        <day value="23" year="2017" month="05" price="11151" volume="189" return_value="1.00414228" indication="1"/>
+        <day value="24" year="2017" month="05" price="11162" volume="189" return_value="1.00098646" indication="1"/>
+        <day value="25" year="2017" month="05" price="11187" volume="189" return_value="1.00223974" indication="1"/>
+        <day value="26" year="2017" month="05" price="11186" volume="189" return_value=".99991061" work_end="0" indication="1"/>
+        <day value="27" year="2017" month="05" price="" volume="" return_value="" indication="0"/>
+        <day value="28" year="2017" month="05" price="" volume="" return_value="" indication="0"/>
+        <day value="29" year="2017" month="05" price="11233" volume="190" return_value="1.00420168" indication="1"/>
+        <day value="30" year="2017" month="05" price="11233" volume="196" return_value="1" indication="1"/>
+        <day value="31" year="2017" month="05" price="11217" volume="195" return_value=".99857563" work_end="1" indication="1"/>
+      </month>
+      <month value="06">
+        <day value="01" year="2017" month="06" price="11196" volume="195" return_value=".99812784" indication="1"/>
+        <day value="02" year="2017" month="06" price="11296" volume="197" return_value="1.00893176" work_end="0" indication="1"/>
+        <day value="03" year="2017" month="06" price="" volume="" return_value="" indication="0"/>
+        <day value="04" year="2017" month="06" price="" volume="" return_value="" indication="0"/>
+        <day value="05" year="2017" month="06" price="11351" volume="201" return_value="1.00486898" indication="1"/>
+        <day value="06" year="2017" month="06" price="11351" volume="201" return_value="1" indication="1"/>
+        <day value="07" year="2017" month="06" price="11308" volume="200" return_value=".99621179" indication="1"/>
+        <day value="08" year="2017" month="06" price="11321" volume="196" return_value="1.00114963" indication="1"/>
+        <day value="09" year="2017" month="06" price="11324" volume="198" return_value="1.00026499" work_end="0" indication="1"/>
+        <day value="10" year="2017" month="06" price="" volume="" return_value="" indication="0"/>
+        <day value="11" year="2017" month="06" price="" volume="" return_value="" indication="0"/>
+        <day value="12" year="2017" month="06" price="11319" volume="199" return_value=".99955846" indication="1"/>
+        <day value="13" year="2017" month="06" price="11305" volume="199" return_value=".99876314" indication="1"/>
+        <day value="14" year="2017" month="06" price="11358" volume="200" return_value="1.00468819" indication="1"/>
+        <day value="15" year="2017" month="06" price="11352" volume="204" return_value=".99947174" divident="0" indication="1"/>
+        <day value="16" year="2017" month="06" price="11323" volume="203" return_value=".99744538" work_end="0" indication="1"/>
+        <day value="17" year="2017" month="06" price="" volume="" return_value="" indication="0"/>
+        <day value="18" year="2017" month="06" price="" volume="" return_value="" indication="0"/>
+        <day value="19" year="2017" month="06" price="11318" volume="203" return_value=".99955842" indication="1"/>
+        <day value="20" year="2017" month="06" price="11428" volume="205" return_value="1.00971903" indication="1"/>
+        <day value="21" year="2017" month="06" price="11354" volume="204" return_value=".99352468" indication="1"/>
+        <day value="22" year="2017" month="06" price="11361" volume="204" return_value="1.00061652" indication="1"/>
+        <day value="23" year="2017" month="06" price="11354" volume="204" return_value=".99938386" work_end="0" indication="1"/>
+        <day value="24" year="2017" month="06" price="" volume="" return_value="" indication="0"/>
+        <day value="25" year="2017" month="06" price="" volume="" return_value="" indication="0"/>
+        <day value="26" year="2017" month="06" price="11354" volume="216" return_value="1" indication="1"/>
+        <day value="27" year="2017" month="06" price="11357" volume="216" return_value="1.00026422" indication="1"/>
+        <day value="28" year="2017" month="06" price="11278" volume="217" return_value=".99304394" indication="1"/>
+        <day value="29" year="2017" month="06" price="11376" volume="218" return_value="1.00868948" indication="1"/>
+        <day value="30" year="2017" month="06" price="11288" volume="217" return_value=".99226442" work_end="2" indication="1"/>
+      </month>
+      <month value="07">
+        <day value="01" year="2017" month="07" price="" volume="" return_value="" indication="0"/>
+        <day value="02" year="2017" month="07" price="" volume="" return_value="" indication="0"/>
+        <day value="03" year="2017" month="07" price="11298" volume="217" return_value="1.0008859" indication="1"/>
+        <day value="04" year="2017" month="07" price="11323" volume="217" return_value="1.00221278" indication="1"/>
+        <day value="05" year="2017" month="07" price="11323" volume="263" return_value="1" indication="1"/>
+        <day value="06" year="2017" month="07" price="11347" volume="263" return_value="1.00211958" indication="1"/>
+        <day value="07" year="2017" month="07" price="11250" volume="262" return_value=".99145148" work_end="0" indication="1"/>
+        <day value="08" year="2017" month="07" price="" volume="" return_value="" indication="0"/>
+        <day value="09" year="2017" month="07" price="" volume="" return_value="" indication="0"/>
+        <day value="10" year="2017" month="07" price="11335" volume="270" return_value="1.00755556" indication="1"/>
+        <day value="11" year="2017" month="07" price="11345" volume="273" return_value="1.00088222" indication="1"/>
+        <day value="12" year="2017" month="07" price="11328" volume="273" return_value=".99850154" indication="1"/>
+        <day value="13" year="2017" month="07" price="11401" volume="278" return_value="1.00644421" indication="1"/>
+        <day value="14" year="2017" month="07" price="11430" volume="279" return_value="1.00254364" work_end="0" indication="1"/>
+        <day value="15" year="2017" month="07" price="" volume="" return_value="" indication="0"/>
+        <day value="16" year="2017" month="07" price="" volume="" return_value="" indication="0"/>
+        <day value="17" year="2017" month="07" price="" volume="" return_value="" indication="0"/>
+        <day value="18" year="2017" month="07" price="11471" volume="280" return_value="1.00358705" indication="1"/>
+        <day value="19" year="2017" month="07" price="11475" volume="286" return_value="1.00034871" indication="1"/>
+        <day value="20" year="2017" month="07" price="11543" volume="287" return_value="1.00592593" indication="1"/>
+        <day value="21" year="2017" month="07" price="11532" volume="287" return_value=".99904704" work_end="0" indication="1"/>
+        <day value="22" year="2017" month="07" price="" volume="" return_value="" indication="0"/>
+        <day value="23" year="2017" month="07" price="" volume="" return_value="" indication="0"/>
+        <day value="24" year="2017" month="07" price="11523" volume="287" return_value=".99921956" indication="1"/>
+        <day value="25" year="2017" month="07" price="11526" volume="286" return_value="1.00026035" indication="1"/>
+        <day value="26" year="2017" month="07" price="11560" volume="287" return_value="1.00294985" indication="1"/>
+        <day value="27" year="2017" month="07" price="11578" volume="288" return_value="1.00155709" indication="1"/>
+        <day value="28" year="2017" month="07" price="11530" volume="287" return_value=".99585421" work_end="0" indication="1"/>
+        <day value="29" year="2017" month="07" price="" volume="" return_value="" indication="0"/>
+        <day value="30" year="2017" month="07" price="" volume="" return_value="" indication="0"/>
+        <day value="31" year="2017" month="07" price="11520" volume="286" return_value=".9991327" work_end="1" indication="1"/>
+      </month>
+      <month value="08">
+        <day value="01" year="2017" month="08" price="11510" volume="286" return_value=".99913194" indication="1"/>
+        <day value="02" year="2017" month="08" price="11539" volume="287" return_value="1.00251955" indication="1"/>
+        <day value="03" year="2017" month="08" price="11547" volume="291" return_value="1.0006933" indication="1"/>
+        <day value="04" year="2017" month="08" price="11529" volume="291" return_value=".99844115" work_end="0" indication="1"/>
+        <day value="05" year="2017" month="08" price="" volume="" return_value="" indication="0"/>
+        <day value="06" year="2017" month="08" price="" volume="" return_value="" indication="0"/>
+        <day value="07" year="2017" month="08" price="11549" volume="292" return_value="1.00173476" indication="1"/>
+        <day value="08" year="2017" month="08" price="11572" volume="302" return_value="1.00199151" indication="1"/>
+        <day value="09" year="2017" month="08" price="11534" volume="301" return_value=".99671621" indication="1"/>
+        <day value="10" year="2017" month="08" price="11541" volume="301" return_value="1.0006069" work_end="0" indication="1"/>
+        <day value="11" year="2017" month="08" price="" volume="" return_value="" indication="0"/>
+        <day value="12" year="2017" month="08" price="" volume="" return_value="" indication="0"/>
+        <day value="13" year="2017" month="08" price="" volume="" return_value="" indication="0"/>
+        <day value="14" year="2017" month="08" price="11394" volume="297" return_value=".9872628" indication="1"/>
+        <day value="15" year="2017" month="08" price="11500" volume="300" return_value="1.00930314" indication="1"/>
+        <day value="16" year="2017" month="08" price="11500" volume="302" return_value="1" indication="1"/>
+        <day value="17" year="2017" month="08" price="11489" volume="301" return_value=".99904348" indication="1"/>
+        <day value="18" year="2017" month="08" price="11342" volume="313" return_value=".98720515" work_end="0" indication="1"/>
+        <day value="19" year="2017" month="08" price="" volume="" return_value="" indication="0"/>
+        <day value="20" year="2017" month="08" price="" volume="" return_value="" indication="0"/>
+        <day value="21" year="2017" month="08" price="11331" volume="312" return_value=".99903015" indication="1"/>
+        <day value="22" year="2017" month="08" price="11345" volume="313" return_value="1.00123555" indication="1"/>
+        <day value="23" year="2017" month="08" price="11469" volume="316" return_value="1.01092993" indication="1"/>
+        <day value="24" year="2017" month="08" price="11428" volume="315" return_value=".99642515" indication="1"/>
+        <day value="25" year="2017" month="08" price="11411" volume="315" return_value=".99851243" work_end="0" indication="1"/>
+        <day value="26" year="2017" month="08" price="" volume="" return_value="" indication="0"/>
+        <day value="27" year="2017" month="08" price="" volume="" return_value="" indication="0"/>
+        <day value="28" year="2017" month="08" price="11415" volume="316" return_value="1.00035054" indication="1"/>
+        <day value="29" year="2017" month="08" price="11428" volume="317" return_value="1.00113885" indication="1"/>
+        <day value="30" year="2017" month="08" price="11433" volume="317" return_value="1.00043752" indication="1"/>
+        <day value="31" year="2017" month="08" price="11495" volume="318" return_value="1.0054229" work_end="1" indication="1"/>
+      </month>
+      <month value="09">
+        <day value="01" year="2017" month="09" price="11558" volume="320" return_value="1.00548064" work_end="0" indication="1"/>
+        <day value="02" year="2017" month="09" price="" volume="" return_value="" indication="0"/>
+        <day value="03" year="2017" month="09" price="" volume="" return_value="" indication="0"/>
+        <day value="04" year="2017" month="09" price="11584" volume="321" return_value="1.00224952" indication="1"/>
+        <day value="05" year="2017" month="09" price="11584" volume="325" return_value="1" indication="1"/>
+        <day value="06" year="2017" month="09" price="11511" volume="323" return_value=".9936982" indication="1"/>
+        <day value="07" year="2017" month="09" price="11538" volume="325" return_value="1.00234558" indication="1"/>
+        <day value="08" year="2017" month="09" price="11517" volume="325" return_value=".99817993" work_end="0" indication="1"/>
+        <day value="09" year="2017" month="09" price="" volume="" return_value="" indication="0"/>
+        <day value="10" year="2017" month="09" price="" volume="" return_value="" indication="0"/>
+        <day value="11" year="2017" month="09" price="11478" volume="324" return_value=".9966137" indication="1"/>
+        <day value="12" year="2017" month="09" price="11586" volume="329" return_value="1.0094093" indication="1"/>
+        <day value="13" year="2017" month="09" price="11618" volume="330" return_value="1.00276195" indication="1"/>
+        <day value="14" year="2017" month="09" price="11617" volume="330" return_value=".99991393" indication="1"/>
+        <day value="15" year="2017" month="09" price="11588" volume="329" return_value=".99750366" work_end="0" indication="1"/>
+        <day value="16" year="2017" month="09" price="" volume="" return_value="" indication="0"/>
+        <day value="17" year="2017" month="09" price="" volume="" return_value="" indication="0"/>
+        <day value="18" year="2017" month="09" price="" volume="" return_value="" indication="0"/>
+        <day value="19" year="2017" month="09" price="11634" volume="330" return_value="1.00396962" indication="1"/>
+        <day value="20" year="2017" month="09" price="11637" volume="331" return_value="1.00025786" indication="1"/>
+        <day value="21" year="2017" month="09" price="11649" volume="331" return_value="1.00103119" indication="1"/>
+        <day value="22" year="2017" month="09" price="11615" volume="331" return_value=".99708129" work_end="0" indication="1"/>
+        <day value="23" year="2017" month="09" price="" volume="" return_value="" indication="0"/>
+        <day value="24" year="2017" month="09" price="" volume="" return_value="" indication="0"/>
+        <day value="25" year="2017" month="09" price="11632" volume="332" return_value="1.00146362" indication="1"/>
+        <day value="26" year="2017" month="09" price="11591" volume="330" return_value=".99647524" indication="1"/>
+        <day value="27" year="2017" month="09" price="11593" volume="330" return_value="1.00017255" indication="1"/>
+        <day value="28" year="2017" month="09" price="11637" volume="333" return_value="1.00379539" indication="1"/>
+        <day value="29" year="2017" month="09" price="11654" volume="334" return_value="1.00146086" work_end="2" indication="1"/>
+        <day value="30" year="2017" month="09" price="" volume="" return_value="" indication="0"/>
+      </month>
+      <month value="10">
+        <day value="01" year="2017" month="10" price="" volume="" return_value="" indication="0"/>
+        <day value="02" year="2017" month="10" price="11701" volume="335" return_value="1.00403295" indication="1"/>
+        <day value="03" year="2017" month="10" price="11738" volume="336" return_value="1.00316212" indication="1"/>
+        <day value="04" year="2017" month="10" price="11753" volume="340" return_value="1.0012779" indication="1"/>
+        <day value="05" year="2017" month="10" price="11748" volume="340" return_value=".99957458" indication="1"/>
+        <day value="06" year="2017" month="10" price="11817" volume="342" return_value="1.00587334" work_end="0" indication="1"/>
+        <day value="07" year="2017" month="10" price="" volume="" return_value="" indication="0"/>
+        <day value="08" year="2017" month="10" price="" volume="" return_value="" indication="0"/>
+        <day value="09" year="2017" month="10" price="" volume="" return_value="" indication="0"/>
+        <day value="10" year="2017" month="10" price="11807" volume="342" return_value=".99915376" indication="1"/>
+        <day value="11" year="2017" month="10" price="11811" volume="342" return_value="1.00033878" indication="1"/>
+        <day value="12" year="2017" month="10" price="11832" volume="342" return_value="1.001778" indication="1"/>
+        <day value="13" year="2017" month="10" price="11791" volume="334" return_value=".99653482" work_end="0" indication="1"/>
+        <day value="14" year="2017" month="10" price="" volume="" return_value="" indication="0"/>
+        <day value="15" year="2017" month="10" price="" volume="" return_value="" indication="0"/>
+        <day value="16" year="2017" month="10" price="11784" volume="334" return_value=".99940633" indication="1"/>
+        <day value="17" year="2017" month="10" price="11789" volume="334" return_value="1.0004243" indication="1"/>
+        <day value="18" year="2017" month="10" price="11801" volume="334" return_value="1.0010179" indication="1"/>
+        <day value="19" year="2017" month="10" price="11800" volume="334" return_value=".99991526" indication="1"/>
+        <day value="20" year="2017" month="10" price="11785" volume="333" return_value=".99872881" work_end="0" indication="1"/>
+        <day value="21" year="2017" month="10" price="" volume="" return_value="" indication="0"/>
+        <day value="22" year="2017" month="10" price="" volume="" return_value="" indication="0"/>
+        <day value="23" year="2017" month="10" price="11825" volume="334" return_value="1.00339415" indication="1"/>
+        <day value="24" year="2017" month="10" price="11784" volume="333" return_value=".99653277" indication="1"/>
+        <day value="25" year="2017" month="10" price="11791" volume="334" return_value="1.00059403" indication="1"/>
+        <day value="26" year="2017" month="10" price="11749" volume="332" return_value=".99643796" indication="1"/>
+        <day value="27" year="2017" month="10" price="11731" volume="337" return_value=".99846795" work_end="0" indication="1"/>
+        <day value="28" year="2017" month="10" price="" volume="" return_value="" indication="0"/>
+        <day value="29" year="2017" month="10" price="" volume="" return_value="" indication="0"/>
+        <day value="30" year="2017" month="10" price="11811" volume="340" return_value="1.00681954" indication="1"/>
+        <day value="31" year="2017" month="10" price="11811" volume="340" return_value="1" work_end="1" indication="1"/>
+      </month>
+      <month value="11">
+        <day value="01" year="2017" month="11" price="11791" volume="339" return_value=".99830666" indication="1"/>
+        <day value="02" year="2017" month="11" price="11799" volume="339" return_value="1.00067848" work_end="0" indication="1"/>
+        <day value="03" year="2017" month="11" price="" volume="" return_value="" indication="0"/>
+        <day value="04" year="2017" month="11" price="" volume="" return_value="" indication="0"/>
+        <day value="05" year="2017" month="11" price="" volume="" return_value="" indication="0"/>
+        <day value="06" year="2017" month="11" price="11821" volume="340" return_value="1.00186456" indication="1"/>
+        <day value="07" year="2017" month="11" price="11823" volume="342" return_value="1.00016919" indication="1"/>
+        <day value="08" year="2017" month="11" price="11802" volume="342" return_value=".9982238" indication="1"/>
+        <day value="09" year="2017" month="11" price="11810" volume="347" return_value="1.00067785" indication="1"/>
+        <day value="10" year="2017" month="11" price="11761" volume="345" return_value=".99585097" work_end="0" indication="1"/>
+        <day value="11" year="2017" month="11" price="" volume="" return_value="" indication="0"/>
+        <day value="12" year="2017" month="11" price="" volume="" return_value="" indication="0"/>
+        <day value="13" year="2017" month="11" price="11746" volume="345" return_value=".9987246" indication="1"/>
+        <day value="14" year="2017" month="11" price="11752" volume="345" return_value="1.00051081" indication="1"/>
+        <day value="15" year="2017" month="11" price="11718" volume="344" return_value=".99710688" indication="1"/>
+        <day value="16" year="2017" month="11" price="11670" volume="344" return_value=".99590374" indication="1"/>
+        <day value="17" year="2017" month="11" price="11763" volume="347" return_value="1.00796915" work_end="0" indication="1"/>
+        <day value="18" year="2017" month="11" price="" volume="" return_value="" indication="0"/>
+        <day value="19" year="2017" month="11" price="" volume="" return_value="" indication="0"/>
+        <day value="20" year="2017" month="11" price="11732" volume="346" return_value=".99736462" indication="1"/>
+        <day value="21" year="2017" month="11" price="11743" volume="349" return_value="1.00093761" indication="1"/>
+        <day value="22" year="2017" month="11" price="11815" volume="351" return_value="1.00613131" indication="1"/>
+        <day value="23" year="2017" month="11" price="" volume="" return_value="" indication="0"/>
+        <day value="24" year="2017" month="11" price="11812" volume="351" return_value=".99974609" work_end="0" indication="1"/>
+        <day value="25" year="2017" month="11" price="" volume="" return_value="" indication="0"/>
+        <day value="26" year="2017" month="11" price="" volume="" return_value="" indication="0"/>
+        <day value="27" year="2017" month="11" price="11827" volume="351" return_value="1.0012699" indication="1"/>
+        <day value="28" year="2017" month="11" price="11822" volume="351" return_value=".99957724" indication="1"/>
+        <day value="29" year="2017" month="11" price="11934" volume="354" return_value="1.00947386" indication="1"/>
+        <day value="30" year="2017" month="11" price="11959" volume="355" return_value="1.00209486" work_end="1" indication="1"/>
+      </month>
+      <month value="12">
+        <day value="01" year="2017" month="12" price="12038" volume="358" return_value="1.0066059" work_end="0" indication="1"/>
+        <day value="02" year="2017" month="12" price="" volume="" return_value="" indication="0"/>
+        <day value="03" year="2017" month="12" price="" volume="" return_value="" indication="0"/>
+        <day value="04" year="2017" month="12" price="12031" volume="357" return_value=".99941851" indication="1"/>
+        <day value="05" year="2017" month="12" price="12049" volume="357" return_value="1.00149613" indication="1"/>
+        <day value="06" year="2017" month="12" price="12014" volume="360" return_value=".99709519" indication="1"/>
+        <day value="07" year="2017" month="12" price="12009" volume="360" return_value=".99958382" indication="1"/>
+        <day value="08" year="2017" month="12" price="12048" volume="385" return_value="1.00324756" work_end="0" indication="1"/>
+        <day value="09" year="2017" month="12" price="" volume="" return_value="" indication="0"/>
+        <day value="10" year="2017" month="12" price="" volume="" return_value="" indication="0"/>
+        <day value="11" year="2017" month="12" price="12115" volume="394" return_value="1.00556109" indication="1"/>
+        <day value="12" year="2017" month="12" price="12149" volume="395" return_value="1.00280644" indication="1"/>
+        <day value="13" year="2017" month="12" price="12195" volume="401" return_value="1.00378632" indication="1"/>
+        <day value="14" year="2017" month="12" price="12174" volume="400" return_value=".99827798" indication="1"/>
+        <day value="15" year="2017" month="12" price="12114" volume="399" return_value=".99507146" work_end="0" indication="1"/>
+        <day value="16" year="2017" month="12" price="" volume="" return_value="" indication="0"/>
+        <day value="17" year="2017" month="12" price="" volume="" return_value="" indication="0"/>
+        <day value="18" year="2017" month="12" price="12225" volume="403" return_value="1.00916295" indication="1"/>
+        <day value="19" year="2017" month="12" price="12273" volume="404" return_value="1.00392638" indication="1"/>
+        <day value="20" year="2017" month="12" price="12238" volume="403" return_value=".99714821" indication="1"/>
+        <day value="21" year="2017" month="12" price="12241" volume="403" return_value="1.00024514" indication="1"/>
+        <day value="22" year="2017" month="12" price="12280" volume="404" return_value="1.00318601" work_end="0" indication="1"/>
+        <day value="23" year="2017" month="12" price="" volume="" return_value="" indication="0"/>
+        <day value="24" year="2017" month="12" price="" volume="" return_value="" indication="0"/>
+        <day value="25" year="2017" month="12" price="12267" volume="404" return_value=".99894137" indication="1"/>
+        <day value="26" year="2017" month="12" price="12266" volume="404" return_value=".99991848" indication="1"/>
+        <day value="27" year="2017" month="12" price="12266" volume="404" return_value="1" indication="1"/>
+        <day value="28" year="2017" month="12" price="12256" volume="403" return_value=".99918474" indication="1"/>
+        <day value="29" year="2017" month="12" price="12258" volume="416" return_value="1.00016319" work_end="2" indication="1"/>
+        <day value="30" year="2017" month="12" price="" volume="" return_value="" indication="0"/>
+        <day value="31" year="2017" month="12" price="" volume="" return_value="" indication="0"/>
+      </month>
+    </year>
+    <year value="2018">
+      <month value="01">
+        <day value="01" year="2018" month="01" price="" volume="" return_value="" indication="0"/>
+        <day value="02" year="2018" month="01" price="" volume="" return_value="" indication="0"/>
+        <day value="03" year="2018" month="01" price="" volume="" return_value="" indication="0"/>
+        <day value="04" year="2018" month="01" price="12382" volume="420" return_value="1.01011584" indication="1"/>
+        <day value="05" year="2018" month="01" price="12443" volume="422" return_value="1.00492651" work_end="0" indication="1"/>
+        <day value="06" year="2018" month="01" price="" volume="" return_value="" indication="0"/>
+        <day value="07" year="2018" month="01" price="" volume="" return_value="" indication="0"/>
+        <day value="08" year="2018" month="01" price="" volume="" return_value="" indication="0"/>
+        <day value="09" year="2018" month="01" price="12510" volume="434" return_value="1.00538455" indication="1"/>
+        <day value="10" year="2018" month="01" price="12523" volume="434" return_value="1.00103917" indication="1"/>
+        <day value="11" year="2018" month="01" price="12533" volume="436" return_value="1.00079853" indication="1"/>
+        <day value="12" year="2018" month="01" price="12615" volume="439" return_value="1.00654273" work_end="0" indication="1"/>
+        <day value="13" year="2018" month="01" price="" volume="" return_value="" indication="0"/>
+        <day value="14" year="2018" month="01" price="" volume="" return_value="" indication="0"/>
+        <day value="15" year="2018" month="01" price="12687" volume="444" return_value="1.00570749" indication="1"/>
+        <day value="16" year="2018" month="01" price="12687" volume="444" return_value="1" indication="1"/>
+        <day value="17" year="2018" month="01" price="12635" volume="442" return_value=".99590132" indication="1"/>
+        <day value="18" year="2018" month="01" price="12730" volume="446" return_value="1.0075188" indication="1"/>
+        <day value="19" year="2018" month="01" price="12721" volume="446" return_value=".99929301" work_end="0" indication="1"/>
+        <day value="20" year="2018" month="01" price="" volume="" return_value="" indication="0"/>
+        <day value="21" year="2018" month="01" price="" volume="" return_value="" indication="0"/>
+        <day value="22" year="2018" month="01" price="12792" volume="450" return_value="1.00558132" indication="1"/>
+        <day value="23" year="2018" month="01" price="12897" volume="454" return_value="1.00820826" indication="1"/>
+        <day value="24" year="2018" month="01" price="12913" volume="455" return_value="1.0012406" indication="1"/>
+        <day value="25" year="2018" month="01" price="12909" volume="455" return_value=".99969023" indication="1"/>
+        <day value="26" year="2018" month="01" price="12892" volume="454" return_value=".99868309" work_end="0" indication="1"/>
+        <day value="27" year="2018" month="01" price="" volume="" return_value="" indication="0"/>
+        <day value="28" year="2018" month="01" price="" volume="" return_value="" indication="0"/>
+        <day value="29" year="2018" month="01" price="13016" volume="459" return_value="1.00961837" indication="1"/>
+        <day value="30" year="2018" month="01" price="12921" volume="455" return_value=".99270129" indication="1"/>
+        <day value="31" year="2018" month="01" price="12790" volume="456" return_value=".98986147" work_end="1" indication="1"/>
+      </month>
+      <month value="02">
+        <day value="01" year="2018" month="02" price="12793" volume="456" return_value="1.00023456" indication="1"/>
+        <day value="02" year="2018" month="02" price="12808" volume="457" return_value="1.00117252" work_end="0" indication="1"/>
+        <day value="03" year="2018" month="02" price="" volume="" return_value="" indication="0"/>
+        <day value="04" year="2018" month="02" price="" volume="" return_value="" indication="0"/>
+        <day value="05" year="2018" month="02" price="12538" volume="450" return_value=".97891943" indication="1"/>
+        <day value="06" year="2018" month="02" price="12088" volume="468" return_value=".96410911" indication="1"/>
+        <day value="07" year="2018" month="02" price="12283" volume="478" return_value="1.0161317" indication="1"/>
+        <day value="08" year="2018" month="02" price="12215" volume="476" return_value=".99446389" indication="1"/>
+        <day value="09" year="2018" month="02" price="11791" volume="459" return_value=".96528858" work_end="0" indication="1"/>
+        <day value="10" year="2018" month="02" price="" volume="" return_value="" indication="0"/>
+        <day value="11" year="2018" month="02" price="" volume="" return_value="" indication="0"/>
+        <day value="12" year="2018" month="02" price="" volume="" return_value="" indication="0"/>
+        <day value="13" year="2018" month="02" price="12071" volume="470" return_value="1.02374693" indication="1"/>
+        <day value="14" year="2018" month="02" price="12100" volume="467" return_value="1.00240245" indication="1"/>
+        <day value="15" year="2018" month="02" price="12235" volume="473" return_value="1.01115702" indication="1"/>
+        <day value="16" year="2018" month="02" price="12354" volume="477" return_value="1.0097262" work_end="0" indication="1"/>
+        <day value="17" year="2018" month="02" price="" volume="" return_value="" indication="0"/>
+        <day value="18" year="2018" month="02" price="" volume="" return_value="" indication="0"/>
+        <day value="19" year="2018" month="02" price="12354" volume="477" return_value="1" indication="1"/>
+        <day value="20" year="2018" month="02" price="12354" volume="477" return_value="1" indication="1"/>
+        <day value="21" year="2018" month="02" price="12297" volume="475" return_value=".99538611" indication="1"/>
+        <day value="22" year="2018" month="02" price="12263" volume="474" return_value=".9972351" indication="1"/>
+        <day value="23" year="2018" month="02" price="12264" volume="474" return_value="1.00008155" work_end="0" indication="1"/>
+        <day value="24" year="2018" month="02" price="" volume="" return_value="" indication="0"/>
+        <day value="25" year="2018" month="02" price="" volume="" return_value="" indication="0"/>
+        <day value="26" year="2018" month="02" price="12451" volume="481" return_value="1.01524788" indication="1"/>
+        <day value="27" year="2018" month="02" price="12590" volume="486" return_value="1.01116376" indication="1"/>
+        <day value="28" year="2018" month="02" price="12425" volume="483" return_value=".98689436" work_end="1" indication="1"/>
+      </month>
+      <month value="03">
+        <day value="01" year="2018" month="03" price="12278" volume="477" return_value=".98816901" indication="1"/>
+        <day value="02" year="2018" month="03" price="12115" volume="471" return_value=".98672422" work_end="0" indication="1"/>
+        <day value="03" year="2018" month="03" price="" volume="" return_value="" indication="0"/>
+        <day value="04" year="2018" month="03" price="" volume="" return_value="" indication="0"/>
+        <day value="05" year="2018" month="03" price="12160" volume="474" return_value="1.0037144" indication="1"/>
+        <day value="06" year="2018" month="03" price="12268" volume="478" return_value="1.00888158" indication="1"/>
+        <day value="07" year="2018" month="03" price="12301" volume="484" return_value="1.00268993" indication="1"/>
+        <day value="08" year="2018" month="03" price="12292" volume="484" return_value=".99926835" indication="1"/>
+        <day value="09" year="2018" month="03" price="12334" volume="488" return_value="1.00341686" work_end="0" indication="1"/>
+        <day value="10" year="2018" month="03" price="" volume="" return_value="" indication="0"/>
+        <day value="11" year="2018" month="03" price="" volume="" return_value="" indication="0"/>
+        <day value="12" year="2018" month="03" price="12549" volume="496" return_value="1.01743149" indication="1"/>
+        <day value="13" year="2018" month="03" price="12535" volume="496" return_value=".99888437" indication="1"/>
+        <day value="14" year="2018" month="03" price="12454" volume="492" return_value=".99353809" indication="1"/>
+        <day value="15" year="2018" month="03" price="12384" volume="490" return_value=".99437932" indication="1"/>
+        <day value="16" year="2018" month="03" price="12382" volume="494" return_value=".9998385" work_end="0" indication="1"/>
+        <day value="17" year="2018" month="03" price="" volume="" return_value="" indication="0"/>
+        <day value="18" year="2018" month="03" price="" volume="" return_value="" indication="0"/>
+        <day value="19" year="2018" month="03" price="12385" volume="494" return_value="1.00024229" indication="1"/>
+        <day value="20" year="2018" month="03" price="12384" volume="494" return_value=".99991926" indication="1"/>
+        <day value="21" year="2018" month="03" price="" volume="" return_value="" indication="0"/>
+        <day value="22" year="2018" month="03" price="12182" volume="486" return_value=".98368863" indication="1"/>
+        <day value="23" year="2018" month="03" price="11899" volume="475" return_value=".976769" work_end="0" indication="1"/>
+        <day value="24" year="2018" month="03" price="" volume="" return_value="" indication="0"/>
+        <day value="25" year="2018" month="03" price="" volume="" return_value="" indication="0"/>
+        <day value="26" year="2018" month="03" price="11670" volume="466" return_value=".98075469" indication="1"/>
+        <day value="27" year="2018" month="03" price="11957" volume="478" return_value="1.02459297" indication="1"/>
+        <day value="28" year="2018" month="03" price="11755" volume="470" return_value=".98310613" indication="1"/>
+        <day value="29" year="2018" month="03" price="11723" volume="460" return_value=".99727775" indication="1"/>
+        <day value="30" year="2018" month="03" price="11896" volume="467" return_value="1.01475731" work_end="2" indication="1"/>
+        <day value="31" year="2018" month="03" price="" volume="" return_value="" indication="0"/>
+      </month>
+      <month value="04">
+        <day value="01" year="2018" month="04" price="" volume="" return_value="" indication="0"/>
+        <day value="02" year="2018" month="04" price="11896" volume="467" return_value="1" indication="1"/>
+        <day value="03" year="2018" month="04" price="11896" volume="467" return_value="1" indication="1"/>
+        <day value="04" year="2018" month="04" price="11794" volume="463" return_value=".99142569" indication="1"/>
+        <day value="05" year="2018" month="04" price="11914" volume="472" return_value="1.01017467" indication="1"/>
+        <day value="06" year="2018" month="04" price="12000" volume="475" return_value="1.0072184" work_end="0" indication="1"/>
+        <day value="07" year="2018" month="04" price="" volume="" return_value="" indication="0"/>
+        <day value="08" year="2018" month="04" price="" volume="" return_value="" indication="0"/>
+        <day value="09" year="2018" month="04" price="11758" volume="466" return_value=".97983333" indication="1"/>
+        <day value="10" year="2018" month="04" price="11794" volume="471" return_value="1.00306175" indication="1"/>
+        <day value="11" year="2018" month="04" price="11959" volume="479" return_value="1.01399016" indication="1"/>
+        <day value="12" year="2018" month="04" price="11902" volume="476" return_value=".99523372" indication="1"/>
+        <day value="13" year="2018" month="04" price="12002" volume="480" return_value="1.00840195" work_end="0" indication="1"/>
+        <day value="14" year="2018" month="04" price="" volume="" return_value="" indication="0"/>
+        <day value="15" year="2018" month="04" price="" volume="" return_value="" indication="0"/>
+        <day value="16" year="2018" month="04" price="11976" volume="479" return_value=".99783369" indication="1"/>
+        <day value="17" year="2018" month="04" price="12043" volume="489" return_value="1.00559452" indication="1"/>
+        <day value="18" year="2018" month="04" price="12145" volume="493" return_value="1.00846965" indication="1"/>
+        <day value="19" year="2018" month="04" price="12141" volume="493" return_value=".99967065" indication="1"/>
+        <day value="20" year="2018" month="04" price="12053" volume="490" return_value=".99275183" work_end="0" indication="1"/>
+        <day value="21" year="2018" month="04" price="" volume="" return_value="" indication="0"/>
+        <day value="22" year="2018" month="04" price="" volume="" return_value="" indication="0"/>
+        <day value="23" year="2018" month="04" price="11944" volume="485" return_value=".99095661" indication="1"/>
+        <day value="24" year="2018" month="04" price="11937" volume="483" return_value=".99941393" indication="1"/>
+        <day value="25" year="2018" month="04" price="11795" volume="479" return_value=".98810421" indication="1"/>
+        <day value="26" year="2018" month="04" price="11795" volume="479" return_value="1" indication="1"/>
+        <day value="27" year="2018" month="04" price="11911" volume="484" return_value="1.00983468" work_end="2" indication="1"/>
+        <day value="28" year="2018" month="04" price="" volume="" return_value="" indication="0"/>
+        <day value="29" year="2018" month="04" price="" volume="" return_value="" indication="0"/>
+        <day value="30" year="2018" month="04" price="" volume="" return_value="" indication="0"/>
+      </month>
+      <month value="05">
+        <day value="01" year="2018" month="05" price="11832" volume="481" return_value=".99336748" indication="1"/>
+        <day value="02" year="2018" month="05" price="11845" volume="481" return_value="1.00109872" work_end="0" indication="1"/>
+        <day value="03" year="2018" month="05" price="" volume="" return_value="" indication="0"/>
+        <day value="04" year="2018" month="05" price="" volume="" return_value="" indication="0"/>
+        <day value="05" year="2018" month="05" price="" volume="" return_value="" indication="0"/>
+        <day value="06" year="2018" month="05" price="" volume="" return_value="" indication="0"/>
+        <day value="07" year="2018" month="05" price="11881" volume="483" return_value="1.00303926" indication="1"/>
+        <day value="08" year="2018" month="05" price="11881" volume="483" return_value="1" indication="1"/>
+        <day value="09" year="2018" month="05" price="11903" volume="483" return_value="1.0018517" indication="1"/>
+        <day value="10" year="2018" month="05" price="12018" volume="488" return_value="1.00966143" indication="1"/>
+        <day value="11" year="2018" month="05" price="12139" volume="493" return_value="1.01006823" work_end="0" indication="1"/>
+        <day value="12" year="2018" month="05" price="" volume="" return_value="" indication="0"/>
+        <day value="13" year="2018" month="05" price="" volume="" return_value="" indication="0"/>
+        <day value="14" year="2018" month="05" price="12159" volume="495" return_value="1.00164758" indication="1"/>
+        <day value="15" year="2018" month="05" price="12167" volume="501" return_value="1.00065795" indication="1"/>
+        <day value="16" year="2018" month="05" price="12075" volume="498" return_value=".99243856" indication="1"/>
+        <day value="17" year="2018" month="05" price="12113" volume="499" return_value="1.003147" indication="1"/>
+        <day value="18" year="2018" month="05" price="12103" volume="499" return_value=".99917444" work_end="0" indication="1"/>
+        <day value="19" year="2018" month="05" price="" volume="" return_value="" indication="0"/>
+        <day value="20" year="2018" month="05" price="" volume="" return_value="" indication="0"/>
+        <day value="21" year="2018" month="05" price="12050" volume="497" return_value=".99562092" indication="1"/>
+        <day value="22" year="2018" month="05" price="12120" volume="500" return_value="1.00580913" indication="1"/>
+        <day value="23" year="2018" month="05" price="12083" volume="499" return_value=".99694719" indication="1"/>
+        <day value="24" year="2018" month="05" price="12127" volume="500" return_value="1.00364148" indication="1"/>
+        <day value="25" year="2018" month="05" price="12097" volume="500" return_value=".99752618" work_end="0" indication="1"/>
+        <day value="26" year="2018" month="05" price="" volume="" return_value="" indication="0"/>
+        <day value="27" year="2018" month="05" price="" volume="" return_value="" indication="0"/>
+        <day value="28" year="2018" month="05" price="12060" volume="498" return_value=".99694139" indication="1"/>
+        <day value="29" year="2018" month="05" price="12060" volume="498" return_value="1" indication="1"/>
+        <day value="30" year="2018" month="05" price="11911" volume="492" return_value=".98764511" indication="1"/>
+        <day value="31" year="2018" month="05" price="12037" volume="499" return_value="1.01057846" work_end="1" indication="1"/>
+      </month>
+      <month value="06">
+        <day value="01" year="2018" month="06" price="11961" volume="496" return_value=".99368613" work_end="0" indication="1"/>
+        <day value="02" year="2018" month="06" price="" volume="" return_value="" indication="0"/>
+        <day value="03" year="2018" month="06" price="" volume="" return_value="" indication="0"/>
+        <day value="04" year="2018" month="06" price="12081" volume="501" return_value="1.01003261" indication="1"/>
+        <day value="05" year="2018" month="06" price="12081" volume="504" return_value="1" indication="1"/>
+        <day value="06" year="2018" month="06" price="12114" volume="506" return_value="1.00273156" indication="1"/>
+      </month>
+    </year>
+  </fund>
+</morningstarXML>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="Shift_JIS"?>
+<morningstarXML>
+  <fund code="2018042705" name="大和住銀 先進国国債ファンド(リスク抑制型)" period_start="20180427" period_end="0       ">
+    <year value="2018">
+      <month value="04">
+        <day value="27" year="2018" month="04" price="10000" volume="500" return_value="1" work_end="2" indication="1"/>
+        <day value="28" year="2018" month="04" price="" volume="" return_value="" indication="0"/>
+        <day value="29" year="2018" month="04" price="" volume="" return_value="" indication="0"/>
+        <day value="30" year="2018" month="04" price="" volume="" return_value="" indication="0"/>
+      </month>
+      <month value="05">
+        <day value="01" year="2018" month="05" price="9999" volume="500" return_value=".9999" indication="1"/>
+        <day value="02" year="2018" month="05" price="9999" volume="500" return_value="1" work_end="0" indication="1"/>
+        <day value="03" year="2018" month="05" price="" volume="" return_value="" indication="0"/>
+        <day value="04" year="2018" month="05" price="" volume="" return_value="" indication="0"/>
+        <day value="05" year="2018" month="05" price="" volume="" return_value="" indication="0"/>
+        <day value="06" year="2018" month="05" price="" volume="" return_value="" indication="0"/>
+        <day value="07" year="2018" month="05" price="9999" volume="500" return_value="1" indication="1"/>
+        <day value="08" year="2018" month="05" price="9998" volume="500" return_value=".99989999" indication="1"/>
+        <day value="09" year="2018" month="05" price="9983" volume="574" return_value=".9984997" indication="1"/>
+        <day value="10" year="2018" month="05" price="9999" volume="688" return_value="1.00160272" indication="1"/>
+        <day value="11" year="2018" month="05" price="10001" volume="833" return_value="1.00020002" work_end="0" indication="1"/>
+        <day value="12" year="2018" month="05" price="" volume="" return_value="" indication="0"/>
+        <day value="13" year="2018" month="05" price="" volume="" return_value="" indication="0"/>
+        <day value="14" year="2018" month="05" price="10000" volume="933" return_value=".99990001" indication="1"/>
+        <day value="15" year="2018" month="05" price="9984" volume="1011" return_value=".9984" indication="1"/>
+        <day value="16" year="2018" month="05" price="9966" volume="1141" return_value=".99819712" indication="1"/>
+        <day value="17" year="2018" month="05" price="9973" volume="1205" return_value="1.00070239" indication="1"/>
+        <day value="18" year="2018" month="05" price="9973" volume="1253" return_value="1" work_end="0" indication="1"/>
+        <day value="19" year="2018" month="05" price="" volume="" return_value="" indication="0"/>
+        <day value="20" year="2018" month="05" price="" volume="" return_value="" indication="0"/>
+        <day value="21" year="2018" month="05" price="9990" volume="1313" return_value="1.0017046" indication="1"/>
+        <day value="22" year="2018" month="05" price="9997" volume="1366" return_value="1.0007007" indication="1"/>
+        <day value="23" year="2018" month="05" price="9995" volume="1460" return_value=".99979994" indication="1"/>
+        <day value="24" year="2018" month="05" price="9982" volume="1521" return_value=".99869935" indication="1"/>
+        <day value="25" year="2018" month="05" price="10005" volume="1622" return_value="1.00230415" work_end="0" indication="1"/>
+        <day value="26" year="2018" month="05" price="" volume="" return_value="" indication="0"/>
+        <day value="27" year="2018" month="05" price="" volume="" return_value="" indication="0"/>
+        <day value="28" year="2018" month="05" price="10021" volume="1706" return_value="1.0015992" indication="1"/>
+        <day value="29" year="2018" month="05" price="10025" volume="1764" return_value="1.00039916" indication="1"/>
+        <day value="30" year="2018" month="05" price="10033" volume="1808" return_value="1.000798" indication="1"/>
+        <day value="31" year="2018" month="05" price="10024" volume="1851" return_value=".99910296" work_end="1" indication="1"/>
+      </month>
+      <month value="06">
+        <day value="01" year="2018" month="06" price="10039" volume="1939" return_value="1.00149641" work_end="0" indication="1"/>
+        <day value="02" year="2018" month="06" price="" volume="" return_value="" indication="0"/>
+        <day value="03" year="2018" month="06" price="" volume="" return_value="" indication="0"/>
+        <day value="04" year="2018" month="06" price="10028" volume="1974" return_value=".99890427" indication="1"/>
+        <day value="05" year="2018" month="06" price="10028" volume="2155" return_value="1" indication="1"/>
+        <day value="06" year="2018" month="06" price="10036" volume="2236" return_value="1.00079777" indication="1"/>
+      </month>
+    </year>
+  </fund>
+</morningstarXML>
